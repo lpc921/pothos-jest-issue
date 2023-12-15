@@ -6,7 +6,7 @@
       "ESNext"
     ],
     "module": "NodeNext",
-    "moduleResolution": "NodeNext",
+    // "moduleResolution": "Node",
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
